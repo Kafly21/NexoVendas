@@ -1,0 +1,4 @@
+ID Venda;Data;Cliente;Produto;Qtd;Subtotal;Total da Venda
+1;11/03/2026 19:04:07;Ana Beatriz;ProdutoNome;100;1799,00;3897,50
+1;11/03/2026 19:04:07;Ana Beatriz;NomeProduto;150;2098,50;3897,50
+2;11/03/2026 19:08:54;Michael Steps;Pokecoin;777;6037,29;6037,29
